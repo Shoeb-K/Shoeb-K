@@ -49,8 +49,8 @@ I'm [Shoeb Khan](https://www.linkedin.com/in/shoeb-khan-a07517264/), a Software 
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [shoebkhan.netlify.app](https://shoebkhan.netlify.app)
-- 👨‍💻 LinkedIn: [linkedin.com/in/shoeb-khan-a07517264](https://www.linkedin.com/in/shoeb-khan-a07517264/)
+- 🌐 Portfolio: [shoebkhan.com](https://shoebkhan.netlify.app)
+- 👨‍💻 LinkedIn: [shoeb-khan](https://www.linkedin.com/in/shoeb-khan-a07517264/)
 - 📸 Instagram: [@__.mr_.khan.__](https://instagram.com/__.mr_.khan.__/)
 - 📧 Email: [khan.shoeb006@gmail.com](mailto:khan.shoeb006@gmail.com)
 
