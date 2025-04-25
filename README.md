@@ -42,8 +42,7 @@ I'm [Shoeb Khan](https://www.linkedin.com/in/shoeb-khan-a07517264/), a Software 
 <p float="left">
   <a href="https://www.postgresql.org" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="60" /></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://prometheus.io/assets/prometheus-logo.png" height="60" /></a>
-  <a href="https://www.influxdata.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/InfluxDB_Logo.svg/512px-InfluxDB_Logo.svg.png" height="60" /></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" /></a>
 </p>
 
 ---
