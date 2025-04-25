@@ -1,73 +1,61 @@
-### Hi there 👋
+# Hi there 👋
 
+I'm [Shoeb Khan](https://www.linkedin.com/in/shoeb-khan-a07517264/), a Software Engineer from [🇮🇳 India](https://en.wikipedia.org/wiki/India), with a strong focus on **DevOps**, **Cloud Engineering**, and **Backend Development**. With over a year of industry experience, I specialize in building scalable cloud-native applications, automating infrastructure, and optimizing development workflows through modern DevOps practices.
 
-I am [Shoeb](https://www.linkedin.com/in/shoeb-khan-a07517264/), a passionate newcomer in the world of technology, eager to make my mark in the realms of DevOps and Cloud Engineering from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; As a fresher, I bring a fresh perspective and unquenchable enthusiasm to the table. My journey is driven by the exciting convergence of software development, operations, and cloud architecture. 🎯
+---
 
-🛠️ Skills That Define Me
+## 🔧 Skills & Interests
 
-With a keen interest in DevOps practices and Cloud Engineering, I've been cultivating a toolkit of skills that empower me to bridge the gap between development and operations seamlessly. From deploying applications with finesse to automating intricate processes, I find the intricacies of optimizing workflows truly captivating. My proficiency extends to various tools and technologies that enable me to not only create efficient pipelines but also ensure their smooth functioning.
+- **Cloud Platforms:** AWS (EC2, Lambda, API Gateway, S3, DynamoDB, CloudFormation, Step Functions), GCP, Azure  
+- **DevOps & Automation:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, CI/CD Pipelines  
+- **Backend Development:** Python, Node.js, Django, Express.js, REST APIs, Serverless Architecture  
+- **Web Technologies:** React.js, HTML, CSS, JavaScript, Firebase  
+- **Databases & Monitoring:** PostgreSQL, MongoDB, DynamoDB, Prometheus, CloudWatch, InfluxDB  
+- **Tools & Platforms:** Git, GitHub, Postman, JIRA, Slack, FCM, SES, SQS, SNS
 
-☁️ Navigating Cloud Realms
+---
 
-Cloud environments have become the backbone of modern technology landscapes, and I've embraced this trend wholeheartedly. My explorations span across different cloud platforms, and I'm at ease in crafting and managing resources in these dynamic ecosystems. Whether it's AWS, Azure, Google Cloud, or others, I'm committed to harnessing the power of the cloud to drive innovation and efficiency.🚀
-
+## ☁️ Cloud & DevOps Stack
 
 <p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://grpc.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
-  </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
- </p>
-  
-### DevOps 
-  
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
-  
-### Databases and Monitoring
-  
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
-  
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="75" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="75" /></a>
 </p>
 
+---
 
-### 📫 How to reach me?
+## 💻 Backend & Web Technologies
 
- - Visit my [Website](https://mrkhantech.wordpress.com/) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shoeb-khan-a07517264/) 👨🏻‍💻
- - Follow me on [Instagram](https://instagram.com/__.mr_.khan.__/ ✨
- - Shoot Me an [Email](mailto:khan.shoeb006@gmail.com) 💌
+<p float="left">
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="70" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://nodejs.org/static/images/logo.svg" height="70" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="70" /></a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" /></a>
+</p>
+
+---
+
+## 📊 Databases & Observability
+
+<p float="left">
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="60" /></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://prometheus.io/assets/prometheus-logo.png" height="60" /></a>
+  <a href="https://www.influxdata.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/InfluxDB_Logo.svg/512px-InfluxDB_Logo.svg.png" height="60" /></a>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: [shoebkhan.netlify.app](https://shoebkhan.netlify.app)
+- 👨‍💻 LinkedIn: [linkedin.com/in/shoeb-khan-a07517264](https://www.linkedin.com/in/shoeb-khan-a07517264/)
+- 📸 Instagram: [@__.mr_.khan.__](https://instagram.com/__.mr_.khan.__/)
+- 📧 Email: [khan.shoeb006@gmail.com](mailto:khan.shoeb006@gmail.com)
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+
