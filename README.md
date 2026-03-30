@@ -1,60 +1,76 @@
 # Hi there 👋
 
-I'm [Shoeb Khan](https://www.linkedin.com/in/shoeb-khan-a07517264/), a Software Engineer from [🇮🇳 India](https://en.wikipedia.org/wiki/India), with a strong focus on **DevOps**, **Cloud Engineering**, and **Backend Development**. With over a year of industry experience, I specialize in building scalable cloud-native applications, automating infrastructure, and optimizing development workflows through modern DevOps practices.
+I'm Shoeb Khan, a Backend & Cloud Engineer from 🇮🇳 India, with 2+ years of experience building production-grade, scalable systems on AWS.
+
+I specialize in designing **serverless architectures**, **event-driven systems**, and **CI/CD pipelines**, with hands-on experience delivering real-world applications end-to-end — from system design to deployment and monitoring.
 
 ---
 
-## 🔧 Skills & Interests
+## 🚀 What I Do
 
-- **Cloud Platforms:** AWS (EC2, Lambda, API Gateway, S3, DynamoDB, CloudFormation, Step Functions), GCP, Azure  
-- **DevOps & Automation:** Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, CI/CD Pipelines  
-- **Backend Development:** Python, Node.js, Django, Express.js, REST APIs, Serverless Architecture  
-- **Web Technologies:** React.js, HTML, CSS, JavaScript, Firebase  
-- **Databases & Monitoring:** PostgreSQL, MongoDB, DynamoDB, Prometheus, CloudWatch, InfluxDB  
-- **Tools & Platforms:** Git, GitHub, Postman, JIRA, Slack, FCM, SES, SQS, SNS
-
----
-
-## ☁️ Cloud & DevOps Stack
-
-<p float="left">
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" height="75" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="75" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" height="75" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="75" /></a>
-</p>
+- Build **scalable backend systems** using AWS (Lambda, API Gateway, DynamoDB)
+- Design **event-driven architectures** using SQS, SNS, Step Functions
+- Develop **secure APIs** with authentication, authorization, and role-based access
+- Implement **CI/CD pipelines** using GitHub Actions and Jenkins
+- Set up **monitoring & observability** using CloudWatch
+- Optimize performance, reliability, and system workflows
 
 ---
 
-## 💻 Backend & Web Technologies
+## 🏗️ Real-World Experience
 
-<p float="left">
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="70" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://nodejs.org/static/images/logo.svg" height="70" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="70" /></a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" /></a>
-</p>
+- Built and delivered a **multi-application platform** (Admin, Supervisor, User apps) with role-based access control
+- Designed the **entire backend system from scratch** and deployed it on AWS
+- Improved system performance by **30%** through async processing and optimizations
+- Reduced deployment time by **40%** via CI/CD automation
+- Extended and scaled the system for a second phase with enhanced functionality
+- Implemented real-time notifications using **Firebase (FCM)** and AWS services
 
 ---
 
-## 📊 Databases & Observability
+## ⚙️ Tech Stack
 
-<p float="left">
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://webimages.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" height="60" /></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" /></a>
-</p>
+### ☁️ Cloud & Backend
+- AWS (Lambda, API Gateway, DynamoDB, S3, SQS, SNS, SES, Step Functions)
+- Python (Boto3, Pandas), Node.js, Express.js
+
+### 🔄 DevOps & CI/CD
+- Docker, Kubernetes
+- Jenkins, GitHub Actions
+- Terraform, Ansible
+
+### 🗄️ Databases
+- DynamoDB, PostgreSQL, MongoDB, Amazon RDS
+
+### 📊 Monitoring & Tools
+- CloudWatch, Prometheus, Grafana
+- JIRA, Postman, Slack
+
+---
+
+## 📌 What You'll Find Here
+
+- Backend and cloud projects
+- CI/CD and DevOps implementations
+- Serverless and event-driven architectures
+- Real-world system design patterns
 
 ---
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [shoebkhan.com](https://shoebkhan.netlify.app)
-- 👨‍💻 LinkedIn: [shoeb-khan](https://www.linkedin.com/in/shoeb-khan-a07517264/)
-- 📸 Instagram: [@__.mr_.khan.__](https://instagram.com/__.mr_.khan.__/)
-- 📧 Email: [khan.shoeb006@gmail.com](mailto:khan.shoeb006@gmail.com)
+- 🌐 Portfolio: https://shoebkhan.netlify.app
+- 💼 LinkedIn: https://www.linkedin.com/in/shoeb-khan-a07517264/
+- 📧 Email: khan.shoeb006@gmail.com
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+## ⚡ Currently Focused On
 
+- Advanced system design & scalability
+- Building production-grade cloud architectures
+- Improving reliability and performance of distributed systems
+
+---
+
+> “First solve the problem, then write the code.”
